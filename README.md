@@ -21,11 +21,22 @@ VMworld EU|Oct 13-15|Spain|Y|?|N/A|Low||
 
 ##Values
 
-Possible status for **Confirmed?**: 
+####Travel & Expenses 
+Has to do with costs of the trip.   
+
+* TODO - define Travel & Expenses costs
+
+####Biz Priorities
+
+* Core = Riak meetups, Erlang community events, NoSQL meetups
+* Near core = Redis/Solr/ElasticSearch and distributed systems community events
+* Adjacent to core = openstack, cloudstack, cloudfoundry, Spark, AWS, Azure
+
+####Possible status for "Confirmed?": 
 * :heavy_check_mark: = Attending
 * :x: = Not Attending
 
-Additional Markers:
+######Additional Markers:
 * :soon: 
 * :heavy_exclamation_mark:
 * :bangbang:
