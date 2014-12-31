@@ -3,10 +3,11 @@ Transparent Travel
 
 I'm going to travel a whole lot as a Developer Advocate this year. Here's my attempt to make sure this awesome community lets me know if there are opportunities I should attend.
 
-| Event | When | Where |Travel | Costs | Biz Priority | Com Priority | Confirmed? |
+| Event | When | Where |Travel | Expenses | Biz Priority | Com Priority | Confirmed? |
 |:------:|------|-------|--------|--------|-------|-------|--------------|------------|------------|
-VTUG|Jan 15|Boston,MA|N|N|Adjacent|Low||
-/dev/winter|Jan 24|UK|Y|Y|Near|Lowest||
+Basho Orientation!|Jan 13-16| Bellevue, WA|Y|Y|Req|:+1:|:heavy_check_mark:|
+~~VTUG~~|Jan 15|Boston, MA|N|N|Adjacent|Low|:x:|
+/dev/winter :soon:|Jan 24|UK|Y|Y|Near|Lowest|:x:|
 FOSDEM|Jan 31 - Feb 1|Belgium|Y|Y|Near|Highest||
 CfgMgmtCamp|Feb 2-3|Belgium|Y*|N|Near|High||
 VMware PEX|Feb 3-5|SF, CA|Y*|N|Adj|Medium|| 
