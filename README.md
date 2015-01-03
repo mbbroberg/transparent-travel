@@ -10,18 +10,19 @@ I'm going to travel a whole lot as a Developer Advocate this year. Here's my att
 |:------:|------|-------|--------|--------|-------|-------|--------------|------------|------------|
 Basho Orientation!|Jan 13-16| Bellevue, WA|Y|Y|Req|:+1:|:heavy_check_mark:|
 ~~VTUG~~|Jan 15|Boston, MA|N|N|Adjacent|Low|:x:
-/dev/winter :soon:|Jan 24|UK|Y|Y|Near|Lowest|:x:
+~~/dev/winter~~|Jan 24|UK|Y|Y|Near|Lowest|:x:
 FOSDEM|Jan 31 - Feb 1|Belgium|Y|Y|Near|Highest|
 CfgMgmtCamp|Feb 2-3|Belgium|Y|Y|Near|High|
-VMware PEX|Feb 3-5|SF, CA|Y*|N|Adj|Medium| 
+VMware PEX|Feb 3-5|SF, CA|Y*|N|Adj|Medium|
 Krispy Kreme Challenge|Feb 14|RTP, NC|Y|N|Personal|Personal|
 OpenStack Meetup|Feb 19|Boston|N|N|Adj|Low|
 OpenStack Summit|May 18-22|Vancouver|Y|Y|Adj|Low|
-Adam & Meghan's Wedding|May 23rd|(west of) Albany, NY|N|N|Personal|Personal|Medium|
+Adam & Meghan's Wedding|May 23rd|(west of) Albany, NY|N|N|Personal|Personal|
     *..time gap..*|
 Nave & Jess' Wedding|July 10-12|SF, CA|N|N|Personal|Personal|Highest|:heavy_check_mark:|
 VMworld US|Aug 30 - Sep 3|SF, CA|Y|?|N/A|High||
 VMworld EU|Oct 13-15|Spain|Y|?|N/A|Low||
+
 
 ##Research
 * [/dev/winter](http://devcycles.net/2015/winter/) -  appears to be target audience. May be worth targeting audience later in the year
@@ -48,6 +49,7 @@ VMworld EU|Oct 13-15|Spain|Y|?|N/A|Low||
   * San Francisco
   * Minneapolis
   * Vancouver
+* Think about Open Source spaces mapped out [on Landyrd](http://lanyrd.com/topics/open-source/)
 
 ##Values
 
