@@ -16,12 +16,15 @@ CfgMgmtCamp|Feb 2-3|Belgium|Y|Y|Near|High|
 VMware PEX|Feb 3-5|SF, CA|Y*|N|Adj|Medium|
 Krispy Kreme Challenge|Feb 14|RTP, NC|Y|N|Personal|Personal|
 OpenStack Meetup|Feb 19|Boston|N|N|Adj|Low|
+Open Source Developer Conference|Apr 21-23|Berlin|Y|Y|Near|Low|
 OpenStack Summit|May 18-22|Vancouver|Y|Y|Adj|Low|
 Adam & Meghan's Wedding|May 23rd|(west of) Albany, NY|N|N|Personal|Personal|
     *..time gap..*|
 Nave & Jess' Wedding|July 10-12|SF, CA|N|N|Personal|Personal|Highest|:heavy_check_mark:|
-VMworld US|Aug 30 - Sep 3|SF, CA|Y|?|N/A|High||
-VMworld EU|Oct 13-15|Spain|Y|?|N/A|Low||
+OSCON US| Jul 20-24|Portland, OR|Y|Y|Near?|Medium|
+VMworld US|Aug 30 - Sep 3|SF, CA|Y|?|N/A|High|
+VMworld EU|Oct 13-15|Spain|Y|?|N/A|Low|
+OSCON Europe|Nov 9-11|Amsterdam|Y|Y|Near?|Medium|
 
 
 ##Research
@@ -40,6 +43,7 @@ VMworld EU|Oct 13-15|Spain|Y|?|N/A|Low||
 * [OpenStack Meetup](http://www.meetup.com/Openstack-Boston/events/218863008/) - Open Q: do they overlap with our users/audience? For CS?
 * [OpenStack Summit](https://www.openstack.org/summit/vancouver-2015/) - If by this time we're able to setup a meetup of our community or join another community, it's worth attending this event as well for further audience expansion.
 * [VMworld US  & EU](http://www.vmworld.com/community/conference/pre-reg) - by the time these roll around, I hope to be ready to have our meetups in nearby locations. This would allow a continued acquisition of my previous audience and a further activation of the new audience.
+* [OSDC](http://www.netways.de/osdc/osdc2015/overview/) (Open Source Developer Conferences) - topics include microservices, multi-model NoSQL, web security and the such. Training on Vagrant, logstash, Puppet + their leadership is there.
 
 ####Other Outlets
 
@@ -50,6 +54,7 @@ VMworld EU|Oct 13-15|Spain|Y|?|N/A|Low||
   * Minneapolis
   * Vancouver
 * Think about Open Source spaces mapped out [on Landyrd](http://lanyrd.com/topics/open-source/)
+* MOAR open source here: http://opensource.com/resources/conferences-and-events-monthly
 
 ##Values
 
