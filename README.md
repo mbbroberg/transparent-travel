@@ -13,6 +13,7 @@ Riak Meetup| April 9| SF, CA|Y|Y|Core|:heavy_check_mark:|
 Big Data TechCon|Apr 26-28|Boston, MA|N|Y|Near|:heavy_check_mark:|
 Speak at vBrisket|May 1|Pittsburg, PA|Y|N|Adj|:heavy_check_mark:|
 GoTo Chicago|May 11-14|Chicago, IL|Y|Y|Core|:heavy_check_mark:|
+Riak Meetup|May 14|NYC, NY|Y|Y|Core|:heavy_check_mark:|
 Gluecon|May 20-21|Broomfield, CO|Y|Y|Core|:heavy_check_mark:|
 Adam & Meghan's Wedding|May 23rd|Albany, NY|N|N|Personal|:heavy_check_mark:|
 Velocity Conf|May 27-29|Santa Clara|Y|Y|Core|:heavy_check_mark:|
