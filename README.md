@@ -15,6 +15,7 @@ Team Meeting|July 14-16|Bellevue, WA|Y|Y|Team|:heavy_check_mark:|
 OSCON & Portland Riak|July 20–23|Portland, OR|Y|Y|Near|Expo pass|
 Austin Riak|July 27-29|Austin, TX|Y|Y|Core|:heavy_check_mark:|
 Chicago Riak|July 30|Chicago, IL|Y|Y|Core|:heavy_check_mark:|
+The Reckoning|Sept 13-14|SF, CA|Y|N|Adj|Staff|
 
 ###Past Events
 | Event | When | Where |Travel | Expenses | Com Priority | Confirmed? |
