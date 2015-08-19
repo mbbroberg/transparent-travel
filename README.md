@@ -9,12 +9,8 @@ My travel as a Developer Advocate this year won't be as crazy as it could be. Th
 
 | Event | When | Where |Travel | Expenses | Com Priority | Confirmed? |
 |:------:|------|-------|--------|--------|-------|---|---|---|
-SF Riak :soon: |July 9|SF, CA|Y|Y|Core|:heavy_check_mark:|
-Nave & Jess' Wedding|July 10-14|SF, CA|N|N|Personal|:heavy_check_mark:|
-Team Meeting|July 14-16|Bellevue, WA|Y|Y|Team|:heavy_check_mark:|
-OSCON & Portland Riak|July 20–23|Portland, OR|Y|Y|Near|Expo pass|
-Austin Riak|July 27-29|Austin, TX|Y|Y|Core|:heavy_check_mark:|
-Chicago Riak|July 30|Chicago, IL|Y|Y|Core|:heavy_check_mark:|
+VMworld|Aug 31-Sep 4|SF, CA|N|N|Not really|:heavy_check_mark:
+[The Reckoning](http://thereckoning.techreckoning.com/)|Sep 13-14|CA|N|N|Personal|:heavy_check_mark:
 
 ###Past Events
 | Event | When | Where |Travel | Expenses | Com Priority | Confirmed? |
@@ -28,6 +24,12 @@ Gluecon|May 20-21|Broomfield, CO|Y|Y|Core|:heavy_check_mark:|
 Adam & Meghan's Wedding|May 23rd|Albany, NY|N|N|Personal|:heavy_check_mark:|
 Velocity Conf|May 27-29|Santa Clara|Y|Y|Core|:heavy_check_mark:|
 QCon NYC|June 6-12|NYC, NY|Y|Y|Core|:heavy_check_mark:|
+SF Riak |July 9|SF, CA|Y|Y|Core|:heavy_check_mark:|
+Nave & Jess' Wedding|July 10-14|SF, CA|N|N|Personal|:heavy_check_mark:|
+Team Meeting|July 14-16|Bellevue, WA|Y|Y|Team|:heavy_check_mark:|
+OSCON & Portland Riak|July 20–23|Portland, OR|Y|Y|Near|Expo pass|
+Austin Riak|July 27-29|Austin, TX|Y|Y|Core|:heavy_check_mark:|
+Chicago Riak|July 30|Chicago, IL|Y|Y|Core|:heavy_check_mark:|
 
 ## Notes 
 ####Biz Priorities
