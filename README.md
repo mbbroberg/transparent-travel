@@ -10,7 +10,7 @@ My travel as a Developer Advocate this year won't be as crazy as it could be. Th
 | Event | When | Where |Speaking? | Expenses Covered? | Com Priority | Confirmed? |
 |:------:|------|-------|--------|--------|-------|---|---|---|
 |RICON 2015|Nov 3-6|SF, CA|Y|Y|Core|:heavy_check_mark:
-|SCALEx14 2016|Jan 21-24|LA,CA|Y|Y|Core|:heavy_check_mark:
+|SCALEx14 2016|Jan 21-24|LA,CA|N|?|Adjacent to core|
 
 ###Past Events
 | Event | When | Where |Speaking? | Expenses Covered? | Com Priority | Confirmed? |
