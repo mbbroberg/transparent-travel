@@ -7,8 +7,9 @@ In order of personal importance:
 * [Monktoberfest](http://monktoberfest.com/faq/) - awesome topics and awesome beer. Hope to present here.
 * Monitorama
 * [FOSDEM](https://fosdem.org/2015/) - highly developer-oriented and brings together 5000+ geeks from all over the world. Best way to quickly level up my skills and network in the Open Source community
-* Everything by O'Reilly! 
-	* Velocity 
+* [FLOSS Community Metrics Summit](http://flosscommunitymetrics.org/) - Bringing together community managers, DevRels and people interested in software development & community metrics to discuss about available Free, Libre, Open Source Software (FLOSS) tools.
+* Everything by O'Reilly!
+	* Velocity
 	* OSCON
 * [/dev/winter](http://devcycles.net/2015/winter/) -  appears to be target audience. May be worth targeting audience later in the year
 * [CfgMgmtCamp](https://www.eventbrite.com/event/12899912987) - already in that part of the world for FOSDEM. Meeting more open source leadership from ElasticSearch to Ansible to Chef to Puppet to SaltStack. I need to build out this network and this looks right
@@ -21,10 +22,10 @@ In order of personal importance:
 
 ## Community Focus
 
-* Community Summit 
-* Dev Evangelist Summit 
+* Community Summit
+* Dev Evangelist Summit
 * [Krispy Kreme](http://www.krispykremechallenge.com/register) - for fun. I'd be down in North Carolina. Would that be helfpul to us? It's startup central in RTP.
-* The Reckoning 
+* The Reckoning
 
 
 ####Other Outlets

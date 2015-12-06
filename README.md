@@ -7,10 +7,11 @@ My travel as a Developer Advocate this year won't be as crazy as it could be. Th
 **Are there events that you think I should attend?** Open an Issue, Pull Request or [reach out to me on Twitter](http://twitter.com/mjbrender)!
 
 
-| Event | When | Where |Speaking? | Expenses Covered? | Com Priority | Confirmed? |
-|:------:|------|-------|--------|--------|-------|---|---|---|
-|RICON 2015|Nov 3-6|SF, CA|Y|Y|Core|:heavy_check_mark:
+| Event | When | Where |Speaking? | Expenses Covered? | Com Priority | Confirmed?|
+|:-----:|------|-------|----------|-------------------|--------------|-----------|
 |O'Reilly Design Conference 2016|Jan 20-22|SF, CA| | | | | | |
+|[FOSS Community Metrics Summit](http://flosscommunitymetrics.org/)|Jan 29|Brussels| | | | |
+|[Fosdem](https://fosdem.org/2016/)|Jan 30-31|Brussels| | | | |
 |DeveloperWeek 2016|Feb 12-18|SF, CA| | | | | | |
 
 
@@ -35,20 +36,21 @@ Chicago Riak|July 30|Chicago, IL|N|Y|Core|:heavy_check_mark:|
 VMworld|Aug 31-Sep 4|SF, CA|Y|N|Adj|:heavy_check_mark:
 [The Reckoning](http://thereckoning.techreckoning.com/)|Sep 13-14|CA|Y|N|Personal|:heavy_check_mark:
 SpiceWorld 2015|Sep 23-25|Austin, TX|N|Y|Adj|:heavy_check_mark:
+RICON 2015|Nov 3-6|SF, CA|Y|Y|Core|:heavy_check_mark:
 
 
-## Notes 
+## Notes
 ####Biz Priorities
 
 * Core = Riak meetups, Erlang community events, NoSQL meetups
 * Near core = Redis/Solr/ElasticSearch and distributed systems community events
 * Adjacent to core = openstack, cloudstack, cloudfoundry, Spark, AWS, Azure
 
-####Possible status for "Confirmed?": 
+####Possible status for "Confirmed?":
 * :heavy_check_mark: = Attending
 * :x: = Not Attending
 
 ######Additional Markers:
-* :soon: 
+* :soon:
 * :heavy_exclamation_mark:
 * :bangbang:
