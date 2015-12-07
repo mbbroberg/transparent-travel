@@ -1,6 +1,8 @@
 
 #Research
 
+TODO - explore this list:  https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0&vpid=A60
+
 ## Developer Focus
 In order of personal importance:
 
