@@ -1,4 +1,4 @@
-Transparent Travel
+Transparent Travel - Deprecated
 ==================
 
 My travel as a Developer Advocate this year won't be as crazy as it could be. The real focus is getting business value and that will be more in spreadsheets than in person at first. Here's where I'll be in case you want to meet up with me!
