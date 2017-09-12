@@ -13,9 +13,10 @@ My travel as a Developer Advocate this year won't be as crazy as it could be. Th
 |[FOSS Community Metrics Summit](http://flosscommunitymetrics.org/)|Jan 29|Brussels| | | | |
 |[Fosdem](https://fosdem.org/2016/)|Jan 30-31|Brussels| | | | |
 |DeveloperWeek 2016|Feb 12-18|SF, CA| | | | | | |
+|Boston 2017|Mar 01-14|BOS, MA| | | | | /play letitgo|:star2:|
 
 
-###Past Events
+Past Events
 | Event | When | Where |Speaking? | Expenses Covered? | Com Priority | Confirmed? |
 |:------:|------|-------|--------|--------|-------|---|---|---|
 Riak Meetup| April 9| SF, CA|Y|N|Core|:heavy_check_mark:|
@@ -40,17 +41,17 @@ RICON 2015|Nov 3-6|SF, CA|Y|Y|Core|:heavy_check_mark:
 
 
 ## Notes
-####Biz Priorities
+iz Priorities
 
 * Core = Riak meetups, Erlang community events, NoSQL meetups
 * Near core = Redis/Solr/ElasticSearch and distributed systems community events
 * Adjacent to core = openstack, cloudstack, cloudfoundry, Spark, AWS, Azure
 
-####Possible status for "Confirmed?":
+Possible status for "Confirmed?":
 * :heavy_check_mark: = Attending
 * :x: = Not Attending
 
-######Additional Markers:
+Additional Markers:
 * :soon:
 * :heavy_exclamation_mark:
 * :bangbang:
